@@ -9,3 +9,6 @@ for i in animals:
 for i in range(0:len(animals)):
   print animals[i]
   
+#add element to array
+my_list.append("dummy")
+  
