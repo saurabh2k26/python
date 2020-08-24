@@ -16,4 +16,8 @@ my_list.append("dummy")
 a = [1,2,3]
 a.extend([4,5])
 print(a)   # [1, 2, 3, 4, 5] 
+
+#max element of array
+candies = [1,5,2,7,2]
+maxC = max(candies)  # 7
   
