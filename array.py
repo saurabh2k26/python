@@ -1,6 +1,6 @@
 #create new array
-my_list = []
-my_list = list()  #better
+my_list = []  #better
+my_list = list()  
 
 #navigating thru the list
 animals = ['dog', 'cat', 'rat']
