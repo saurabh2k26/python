@@ -11,4 +11,9 @@ for i in range(0:len(animals)):
   
 #add element to array
 my_list.append("dummy")
+
+#add array to array
+a = [1,2,3]
+a.extend([4,5])
+print(a)   # [1, 2, 3, 4, 5] 
   
