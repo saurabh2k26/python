@@ -6,6 +6,6 @@ my_list = list()  #better
 animals = ['dog', 'cat', 'rat']
 for i in animals:
   print(i)
-for i in range(0:len(animals):
+for i in range(0:len(animals)):
   print animals[i]
   
